@@ -1,2 +1,2 @@
-# student_grade
-Subject Grading
+# student_grade_calculator
+Grade calculation
